@@ -5,7 +5,7 @@ job titles against their visa categories before travel, flagging mismatches
 using a custom risk-scoring algorithm (Levenshtein distance).
 
 ## Live Demo
-- Frontend: https://automedvisa.vercel.app
+- Frontend: https://auto-med-visa.vercel.app/
 - Backend API: https://automed-backend.onrender.com
 
 ## Why I Built This
@@ -44,7 +44,7 @@ before travel.
 | ![Admin dashboard](src/screenshots/admin.png) | ![History log](src/screenshots/history.png) |
 
 ### Demo Video
-https://github.com/user-attachments/assets/demo-video-link
+freecompress-Screen Recording 2026-08-22 143310.mp4
 
 ## Pages
 - `/register` — create worker/employer account
@@ -80,9 +80,9 @@ npm run dev
 - OCR runs entirely client-side (no server round-trip for text extraction)
 
 ## Backend Repository
-https://github.com/tumhara-username/automed-visa-backend
+https://github.com/aashitkhan/AutoMedVisa/tree/master/AutoMed-backend
 
 ## Author
 
 **Aashit Khan**
-- GitHub: [@tumhara-username](https://github.com/tumhara-username)
+- GitHub: [aashitkhan](https://github.com/aashitkhan)

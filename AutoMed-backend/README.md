@@ -7,15 +7,15 @@ category, flagging mismatches using a custom DSA-based risk-scoring algorithm
 before the worker travels.
 
 ## Live API
-https://automed-backend.onrender.com
+https://automed-visa-backend.onrender.com
 
 ## Setup
 ```bash
 cd backend
 npm install
-cp .env.example .env   # fill in MONGO_URI and JWT_SECRET
-npm run seed            # (or: node seed.js) populates sample visa categories
-npm run dev              # starts server on port 5000
+cp .env.example .env   
+npm run seed            
+npm run dev             
 ```
 
 ## Run tests
@@ -48,9 +48,9 @@ severity to produce a 0-100 risk score.
 Node.js, Express, MongoDB, Mongoose, JWT, Multer, Nodemailer, Jest, Supertest
 
 ## Frontend Repository
-https://github.com/tumhara-username/automed-visa-frontend
+https://github.com/aashitkhan/AutoMedVisa/tree/master/AutoMed-frontend
 
 ## Author
 
 **Aashit Khan**
-- GitHub: [@tumhara-username](https://github.com/tumhara-username)
+- GitHub: [aashitkhan](https://github.com/aashitkhan)
