@@ -41,16 +41,15 @@ AutoMed-Visa/
 ## Screenshots
 | Welcome | Registration |
 |---|---|
-| ![Welcome page](src/screenshots/welcome.png) | ![Registration page](src/screenshots/register.png) |
+| ![Welcome page](AutoMed-frontend/src/screenshots/welcome.png) | ![Registration page](AutoMed-frontend/src/screenshots/register.png) |
 
 | Submit & Risk Result | Login with Chatbot |
 |---|---|
-| ![Submit page](src/screenshots/submit.png) | ![Login with chatbot](src/screenshots/login-chatbot.png) |
+| ![Submit page](AutoMed-frontend/src/screenshots/submit.png) | ![Login with chatbot](AutoMed-frontend/src/screenshots/login-chatbot.png) |
 
 | Admin Panel | Submission History |
 |---|---|
-| AutoMed-frontend/src/screenshots/welcome.png | ![History log](src/screenshots/history.png) |
-
+| ![Admin dashboard](AutoMed-frontend/src/screenshots/admin.png) | ![History log](AutoMed-frontend/src/screenshots/history.png) |
 ## Local Setup
 
 ### Backend
