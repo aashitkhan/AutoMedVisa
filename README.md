@@ -49,7 +49,7 @@ AutoMed-Visa/
 
 | Admin Panel | Submission History |
 |---|---|
-| AutoMed-frontend/src/screenshots/admin.png | ![History log](src/screenshots/history.png) |
+| AutoMed-frontend/src/screenshots/welcome.png | ![History log](src/screenshots/history.png) |
 
 ## Local Setup
 
