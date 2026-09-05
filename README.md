@@ -39,7 +39,17 @@ AutoMed-Visa/
 <!-- video link yahan aayega -->
 
 ## Screenshots
-<!--  -->
+| Welcome | Registration |
+|---|---|
+| ![Welcome page](src/screenshots/welcome.png) | ![Registration page](src/screenshots/register.png) |
+
+| Submit & Risk Result | Login with Chatbot |
+|---|---|
+| ![Submit page](src/screenshots/submit.png) | ![Login with chatbot](src/screenshots/login-chatbot.png) |
+
+| Admin Panel | Submission History |
+|---|---|
+| ![Admin dashboard](src/screenshots/admin.png) | ![History log](src/screenshots/history.png) |
 
 ## Local Setup
 
