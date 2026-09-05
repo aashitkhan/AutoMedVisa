@@ -36,7 +36,7 @@ AutoMed-Visa/
 └── AutoMed-Frontend/ # React app, UI, OCR, analytics dashboard
 
 ## Demo Video
-<!-- video link yahan aayega -->
+freecompress-Screen Recording 2026-08-22 143310.mp4
 
 ## Screenshots
 | Welcome | Registration |
